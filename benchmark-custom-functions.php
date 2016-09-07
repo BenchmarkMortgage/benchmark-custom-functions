@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Benchmark Functions Plugin
-Plugin URI: https://benchmark.us
+Plugin URI: https://github.com/BenchmarkMortgage/benchmark-custom-functions
 Description: This plugin contains additional functions.
 Version: 1.0
 Author: Jason Haeger
